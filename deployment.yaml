@@ -18,7 +18,7 @@ spec:
         app: flaskapp
     spec:
       containers:
-      - image: anuja9431/helloworld:latest
+      - image: anuja9431/helloworld:1
         name: flaskapp
         resources: {}
 status: {}
